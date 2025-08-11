@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: java-app
-        image: mubeendochub/java-app:latest   # this will be updated to your build tag in Jenkins
+        image: mubeendochub/java-app:14
         ports:
         - containerPort: 8080
