@@ -22,7 +22,7 @@ pipeline {
 
         // Git repository
         REPO_URL            = "https://github.com/mubeen-hub78/spring3-mvc-maven-xml-hello-world-1.git"
-        GIT_BRANCH          = "master"
+        GIT_BRANCH          = "main"
 
         // Docker configuration for your Docker Hub repository
         DOCKER_IMAGE_NAME   = "mubeendochub/java-app"
